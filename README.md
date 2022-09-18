@@ -22,7 +22,7 @@ Comparison of Model-Based and Model-Free Reinforcement Learning for Real-World D
 ## Video
 
 A video showing the robot executing the tasks during the training process can be found at:
-[https://www.youtube.com/watch?v=ReDdVq_bQuQ](https://www.youtube.com/watch?v=2QBPtrrYIrY)
+[https://www.youtube.com/watch?v=ReDdVq_bQuQ](https://www.youtube.com/)
 
 ## Citation
 If you use either the code or data in your paper, please kindly star this repo and cite our paper
